@@ -2,7 +2,7 @@
 
 ## About
 
-Biomedical informatics background with a focus on turning clinical, regulatory, and data problems into working software. I build during hackathons and ship projects across medical AI workflows, surveillance tooling, and data pipelines.
+Medical Engineering background with a focus on turning clinical, regulatory, and data problems into working software. I build during hackathons and ship projects across medical AI workflows, surveillance tooling, and data pipelines.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mohammadteimori.github.io-2B5748?style=for-the-badge&logo=githubpages&logoColor=9CB080)](https://mohammadteimori.github.io)
 
