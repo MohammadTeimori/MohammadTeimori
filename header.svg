@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" role="img" aria-label="Mohammad Teimori">
+  <defs>
+    <linearGradient id="bannerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#9CB080"/>
+      <stop offset="55%" stop-color="#618764"/>
+      <stop offset="100%" stop-color="#2B5748"/>
+    </linearGradient>
+    <linearGradient id="waveGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#273338" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#273338" stop-opacity="0.28"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bannerGradient)"/>
+
+  <g fill="url(#waveGradient)">
+    <path d="M0 220 C200 180 400 260 600 220 C800 180 1000 260 1200 220 L1200 280 L0 280 Z">
+      <animate attributeName="d"
+        dur="8s"
+        repeatCount="indefinite"
+        values="
+          M0 220 C200 180 400 260 600 220 C800 180 1000 260 1200 220 L1200 280 L0 280 Z;
+          M0 230 C200 270 400 190 600 230 C800 270 1000 190 1200 230 L1200 280 L0 280 Z;
+          M0 220 C200 180 400 260 600 220 C800 180 1000 260 1200 220 L1200 280 L0 280 Z"/>
+    </path>
+    <path d="M0 240 C250 210 450 270 700 240 C950 210 1100 270 1200 250 L1200 280 L0 280 Z" opacity="0.7">
+      <animate attributeName="d"
+        dur="10s"
+        repeatCount="indefinite"
+        values="
+          M0 240 C250 210 450 270 700 240 C950 210 1100 270 1200 250 L1200 280 L0 280 Z;
+          M0 250 C250 280 450 220 700 250 C950 280 1100 220 1200 240 L1200 280 L0 280 Z;
+          M0 240 C250 210 450 270 700 240 C950 210 1100 270 1200 250 L1200 280 L0 280 Z"/>
+    </path>
+  </g>
+
+  <text x="600" y="118"
+    text-anchor="middle"
+    font-family="Segoe UI, system-ui, sans-serif"
+    font-size="56"
+    font-weight="700"
+    fill="#FFFFFF"
+    letter-spacing="-1">Mohammad Teimori</text>
+
+  <text x="600" y="162"
+    text-anchor="middle"
+    font-family="Segoe UI, system-ui, sans-serif"
+    font-size="22"
+    font-weight="500"
+    fill="#EAF2E4"
+    opacity="0.95">Biomedical informatics · hackathon projects · medical AI workflows</text>
+</svg>
