@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+medical+AI+workflows;Hackathon+projects+and+data+pipelines;Post-market+surveillance+and+clinical+data+tools&center=true&width=600&height=30&color=9CB080&vCenter=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Improve+healthcare+through+technology&center=true&width=500&height=30&color=9CB080&vCenter=true)](https://git.io/typing-svg)
 
 ## About
 
