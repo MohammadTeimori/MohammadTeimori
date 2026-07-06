@@ -38,9 +38,14 @@ Technician workflow automation for service desk operations, built during START H
 
 [GitHub repo](https://github.com/umar-b/techbold_track_start_hack)
 
-## GitHub stats
+## Skills
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadTeimori&show_icons=true&theme=transparent&bg_color=273338&title_color=9CB080&text_color=9CB080&icon_color=618764&border_color=2B5748&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+![Python](https://img.shields.io/badge/Python-273338?style=flat-square&logo=python&logoColor=9CB080)
+![FastAPI](https://img.shields.io/badge/FastAPI-2B5748?style=flat-square&logo=fastapi&logoColor=9CB080)
+![React](https://img.shields.io/badge/React-618764?style=flat-square&logo=react&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-273338?style=flat-square&logo=typescript&logoColor=9CB080)
+![SQL](https://img.shields.io/badge/SQL-2B5748?style=flat-square&logo=postgresql&logoColor=9CB080)
+![Jupyter](https://img.shields.io/badge/Jupyter-618764?style=flat-square&logo=jupyter&logoColor=ffffff)
 
 ## Connect
 
