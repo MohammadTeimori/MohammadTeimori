@@ -8,36 +8,6 @@ Biomedical informatics background with a focus on turning clinical, regulatory, 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mohammadteimori.github.io-2B5748?style=for-the-badge&logo=githubpages&logoColor=9CB080)](https://mohammadteimori.github.io)
 
-## Featured projects
-
-### SolAIr Guard
-
-![NASA Space Apps 2023](https://img.shields.io/badge/NASA-Space%20Apps%202023-618764?style=flat-square)
-![2nd prize locally](https://img.shields.io/badge/Award-2nd%20prize%20locally-9CB080?style=flat-square)
-![Best Use of Data](https://img.shields.io/badge/Award-Best%20Use%20of%20Data-2B5748?style=flat-square)
-
-Space weather monitoring with team Solar Comrades. Won 2nd prize locally and Best Use of Data at NASA Space Apps 2023.
-
-[Space Apps project](https://www.spaceappschallenge.org/2023/find-a-team/solar-comrades/?tab=project) · [GitHub repo](https://github.com/umar-b/SPACE-APPS-CHALLENGE-2023)
-
-### Vigil
-
-![RAISE 2026](https://img.shields.io/badge/RAISE-Hackathon%202026-618764?style=flat-square)
-![Vultr track](https://img.shields.io/badge/Track-Vultr-2B5748?style=flat-square)
-
-Post-market surveillance agent for EU MDR medical devices: triage, risk-file checks, precedent retrieval, and reportability decisions.
-
-[Demo video](https://www.youtube.com/watch?v=bNshBdtpnlM) · [GitHub repo](https://github.com/umar-b/vultr-track)
-
-### AI Service Desk Autopilot
-
-![START Hack](https://img.shields.io/badge/START-Hack-618764?style=flat-square)
-![Techbold track](https://img.shields.io/badge/Track-Techbold-2B5748?style=flat-square)
-
-Technician workflow automation for service desk operations, built during START Hack.
-
-[GitHub repo](https://github.com/umar-b/techbold_track_start_hack)
-
 ## Skills
 
 ![Python](https://img.shields.io/badge/Python-273338?style=flat-square&logo=python&logoColor=9CB080)
@@ -50,4 +20,5 @@ Technician workflow automation for service desk operations, built during START H
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-MohammadTeimori-273338?style=for-the-badge&logo=github&logoColor=9CB080)](https://github.com/MohammadTeimori)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammad--teimori-618764?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mohammad-teimori/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mohammadteimori.github.io-2B5748?style=for-the-badge&logo=githubpages&logoColor=9CB080)](https://mohammadteimori.github.io)
