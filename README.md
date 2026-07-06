@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Improve+healthcare+through+technology&center=true&width=500&height=30&color=9CB080&vCenter=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Make+the+world+a+better+place&center=true&width=500&height=30&color=9CB080&vCenter=true)](https://git.io/typing-svg)
 
 ## About
 
