@@ -17,6 +17,4 @@ Medical Engineering background with a focus on turning clinical, regulatory, and
 
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-MohammadTeimori-273338?style=for-the-badge&logo=github&logoColor=9CB080)](https://github.com/MohammadTeimori)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammad--teimori-618764?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mohammad-teimori/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mohammadteimori.github.io-2B5748?style=for-the-badge&logo=githubpages&logoColor=9CB080)](https://mohammadteimori.github.io)
