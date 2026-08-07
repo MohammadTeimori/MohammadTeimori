@@ -13,14 +13,6 @@ Medical Engineering background focused on turning clinical and regulatory proble
 [![Portfolio](https://img.shields.io/badge/Portfolio-mohammadteimori.github.io-2B5748?style=for-the-badge&logo=githubpages&logoColor=C9E3A6)](https://mohammadteimori.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammad--teimori-618764?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mohammad-teimori/)
 
-## Featured
-
-| Project | Outcome |
-| --- | --- |
-| [**AIMED_ECG**](https://github.com/MohammadTeimori/AIMED_ECG) | PTB-XL transformer classifier — test macro F1 **0.567**, AUROC **0.858**, Streamlit dashboard |
-| [**ir-remote-arduino**](https://github.com/MohammadTeimori/ir-remote-arduino) | Arduino IR learner remote — ISR capture, indexed EEPROM store, LCD + serial dual UI |
-| [**Portfolio**](https://mohammadteimori.github.io) | Hackathon builds: SolAIr Guard, Vigil (MDR surveillance), AI Service Desk Autopilot |
-
 ## Skills
 
 ![Python](https://img.shields.io/badge/Python-273338?style=flat-square&logo=python&logoColor=C9E3A6)
