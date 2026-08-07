@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate snake
 
 on:
   schedule:
@@ -11,22 +11,24 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     permissions:
       contents: write
     steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk/svg-only@v3
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: MohammadTeimori
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#2B5748&color_dots=#ebedf0,#C9E3A6,#9CB080,#618764,#2B5748
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#C9E3A6&color_dots=#161b22,#273338,#2B5748,#618764,#9CB080
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#C9E3A6&color_dots=#0f1a16,#273338,#2B5748,#618764,#9CB080
+            dist/github-contribution-grid-snake.gif?color_snake=#9CB080&color_dots=#ebedf0,#C9E3A6,#9CB080,#618764,#2B5748
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "Update contribution snake"
+          commit_message: "chore: update contribution snake"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
