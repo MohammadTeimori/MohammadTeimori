@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Mohammad Teimori — medical engineer">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0f1a16" stop-opacity="0"/>
+      <stop offset="12%" stop-color="#0f1a16" stop-opacity="1"/>
+      <stop offset="88%" stop-color="#0f1a16" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0f1a16" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      @media (prefers-reduced-motion: reduce) {
+        .draw, .pulse { animation: none !important; stroke-dashoffset: 0 !important; opacity: 1 !important; }
+      }
+      .draw {
+        stroke-dasharray: 1400;
+        stroke-dashoffset: 1400;
+        animation: draw 4.5s cubic-bezier(0.22, 1, 0.36, 1) infinite;
+      }
+      .pulse {
+        animation: pulse 4.5s cubic-bezier(0.22, 1, 0.36, 1) infinite;
+      }
+      @keyframes draw {
+        0% { stroke-dashoffset: 1400; }
+        55% { stroke-dashoffset: 0; }
+        85% { stroke-dashoffset: 0; opacity: 1; }
+        100% { stroke-dashoffset: 0; opacity: 0.35; }
+      }
+      @keyframes pulse {
+        0%, 18% { opacity: 0; }
+        28% { opacity: 1; }
+        48% { opacity: 0.85; }
+        70%, 100% { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="360" fill="#0f1a16"/>
+  <rect width="1200" height="360" fill="url(#fade)"/>
+
+  <!-- subtle grid -->
+  <g stroke="#2B5748" stroke-opacity="0.28" stroke-width="1">
+    <line x1="60" y1="250" x2="1140" y2="250"/>
+    <line x1="60" y1="210" x2="1140" y2="210"/>
+    <line x1="60" y1="290" x2="1140" y2="290"/>
+  </g>
+
+  <text x="600" y="92" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="52" fill="#C9E3A6" letter-spacing="-0.5">Mohammad Teimori</text>
+  <text x="600" y="132" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#9CB080">Medical engineer · clinical AI · embedded systems</text>
+
+  <!-- ECG baseline path: two full P-QRS-T complexes -->
+  <path class="draw" filter="url(#glow)"
+        fill="none" stroke="#9CB080" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"
+        d="M60 250
+           H140
+           C155 250 160 235 175 235
+           C190 235 195 250 210 250
+           H250
+           L270 250 L282 205 L294 295 L310 250
+           H360
+           C380 250 390 225 410 225
+           C430 225 440 250 460 250
+           H520
+           C535 250 540 235 555 235
+           C570 235 575 250 590 250
+           H630
+           L650 250 L662 205 L674 295 L690 250
+           H740
+           C760 250 770 225 790 225
+           C810 225 820 250 840 250
+           H1140"/>
+
+  <!-- QRS highlight pulse (first complex) -->
+  <path class="pulse" fill="none" stroke="#C9E3A6" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"
+        filter="url(#glow)"
+        d="M250 250 L270 250 L282 205 L294 295 L310 250"/>
+</svg>
