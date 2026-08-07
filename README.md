@@ -1,8 +1,8 @@
 <!-- Banner: dark / light via prefers-color-scheme -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
-    <img src="./assets/banner-light.svg" alt="Mohammad Teimori — medical engineer · clinical AI · embedded systems" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohammadTeimori/MohammadTeimori/main/assets/banner-dark.svg" />
+    <img src="https://raw.githubusercontent.com/MohammadTeimori/MohammadTeimori/main/assets/banner-light.svg" alt="Mohammad Teimori — medical engineer · clinical AI · embedded systems" width="100%" />
   </picture>
 </p>
 
