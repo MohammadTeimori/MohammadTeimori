@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Mohammad Teimori — medical engineer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Mohammad Teimori - Improve healthcare through technology">
   <defs>
     <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#0f1a16" stop-opacity="0"/>
@@ -43,7 +43,6 @@
   <rect width="1200" height="360" fill="#0f1a16"/>
   <rect width="1200" height="360" fill="url(#fade)"/>
 
-  <!-- subtle grid -->
   <g stroke="#2B5748" stroke-opacity="0.28" stroke-width="1">
     <line x1="60" y1="250" x2="1140" y2="250"/>
     <line x1="60" y1="210" x2="1140" y2="210"/>
@@ -51,9 +50,8 @@
   </g>
 
   <text x="600" y="92" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="52" fill="#C9E3A6" letter-spacing="-0.5">Mohammad Teimori</text>
-  <text x="600" y="132" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#9CB080">Medical engineer · clinical AI · embedded systems</text>
+  <text x="600" y="132" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#9CB080">Improve healthcare through technology</text>
 
-  <!-- ECG baseline path: two full P-QRS-T complexes -->
   <path class="draw" filter="url(#glow)"
         fill="none" stroke="#9CB080" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"
         d="M60 250
@@ -75,7 +73,6 @@
            C810 225 820 250 840 250
            H1140"/>
 
-  <!-- QRS highlight pulse (first complex) -->
   <path class="pulse" fill="none" stroke="#C9E3A6" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"
         filter="url(#glow)"
         d="M250 250 L270 250 L282 205 L294 295 L310 250"/>

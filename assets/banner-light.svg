@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Mohammad Teimori — medical engineer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Mohammad Teimori - Improve healthcare through technology">
   <defs>
     <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#f7fbf6" stop-opacity="0"/>
@@ -50,7 +50,7 @@
   </g>
 
   <text x="600" y="92" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="52" fill="#2B5748" letter-spacing="-0.5">Mohammad Teimori</text>
-  <text x="600" y="132" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#618764">Medical engineer · clinical AI · embedded systems</text>
+  <text x="600" y="132" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#618764">Improve healthcare through technology</text>
 
   <path class="draw" filter="url(#glow)"
         fill="none" stroke="#2B5748" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"

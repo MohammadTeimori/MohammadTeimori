@@ -1,9 +1,15 @@
-<!-- Banner: dark / light via prefers-color-scheme -->
+<!-- Banner + typing tagline -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohammadTeimori/MohammadTeimori/main/assets/banner-dark.svg" />
-    <img src="https://raw.githubusercontent.com/MohammadTeimori/MohammadTeimori/main/assets/banner-light.svg" alt="Mohammad Teimori — medical engineer · clinical AI · embedded systems" width="100%" />
+    <img src="https://raw.githubusercontent.com/MohammadTeimori/MohammadTeimori/main/assets/banner-light.svg" alt="Mohammad Teimori — Improve healthcare through technology" width="100%" />
   </picture>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Improve+healthcare+through+technology;Make+the+world+a+better+place&center=true&width=560&height=32&color=9CB080&vCenter=true" alt="Improve healthcare through technology" />
+  </a>
 </p>
 
 ## About
