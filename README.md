@@ -1,11 +1,3 @@
-<!-- Banner + typing tagline -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohammadTeimori/MohammadTeimori/main/assets/banner-dark.svg" />
-    <img src="https://raw.githubusercontent.com/MohammadTeimori/MohammadTeimori/main/assets/banner-light.svg" alt="Mohammad Teimori — Improve healthcare through technology" width="100%" />
-  </picture>
-</p>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Improve+healthcare+through+technology;Make+the+world+a+better+place&center=true&width=560&height=32&color=9CB080&vCenter=true" alt="Improve healthcare through technology" />
@@ -30,14 +22,5 @@ Medical Engineering background focused on turning clinical and regulatory proble
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-273338?style=flat-square&logo=platformio&logoColor=C9E3A6)
 ![SQL](https://img.shields.io/badge/SQL-2B5748?style=flat-square&logo=postgresql&logoColor=C9E3A6)
 ![Streamlit](https://img.shields.io/badge/Streamlit-273338?style=flat-square&logo=streamlit&logoColor=C9E3A6)
-
-## Contribution graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohammadTeimori/MohammadTeimori/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/MohammadTeimori/MohammadTeimori/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
 
 <sub>Vienna · open to roles in medical AI, healthtech, and embedded systems</sub>
