@@ -23,4 +23,13 @@ Medical Engineering background focused on turning clinical and regulatory proble
 ![SQL](https://img.shields.io/badge/SQL-2B5748?style=flat-square&logo=postgresql&logoColor=C9E3A6)
 ![Streamlit](https://img.shields.io/badge/Streamlit-273338?style=flat-square&logo=streamlit&logoColor=C9E3A6)
 
+## Contribution graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohammadTeimori/MohammadTeimori/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/MohammadTeimori/MohammadTeimori/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 <sub>Vienna · open to roles in medical AI, healthtech, and embedded systems</sub>
