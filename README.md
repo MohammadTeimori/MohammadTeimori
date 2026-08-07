@@ -14,7 +14,6 @@ Medical Engineering background focused on turning clinical and regulatory proble
 ## Skills
 
 ![Python](https://img.shields.io/badge/Python-273338?style=flat-square&logo=python&logoColor=C9E3A6)
-![PyTorch](https://img.shields.io/badge/PyTorch-2B5748?style=flat-square&logo=pytorch&logoColor=C9E3A6)
 ![FastAPI](https://img.shields.io/badge/FastAPI-273338?style=flat-square&logo=fastapi&logoColor=C9E3A6)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2B5748?style=flat-square&logo=typescript&logoColor=C9E3A6)
 ![React](https://img.shields.io/badge/React-273338?style=flat-square&logo=react&logoColor=C9E3A6)
